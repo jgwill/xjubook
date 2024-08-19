@@ -1,0 +1,7 @@
+jgtpy
+jgtml
+jupyter-book
+matplotlib
+numpy
+jupytext
+katex
