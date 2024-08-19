@@ -6,3 +6,4 @@ numpy
 jupytext
 katex
 ghp-import
+bash_kernel

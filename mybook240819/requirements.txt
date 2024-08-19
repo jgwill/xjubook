@@ -4,3 +4,4 @@ numpy
 jgtpy
 jgtml
 jgtfxcon
+bash_kernel
