@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book
+# Welcome to JGWill's XJuBook
 
 This is a small sample book to give you a feel for how book content is
 structured.

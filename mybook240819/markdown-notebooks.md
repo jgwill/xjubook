@@ -12,7 +12,7 @@ kernelspec:
   name: python3
 ---
 
-# Notebooks with MyST Markdown
+# Notebooks  MyST Markdown
 
 Jupyter Book also lets you write text-based notebooks using MyST Markdown.
 See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
@@ -24,6 +24,10 @@ With MyST Markdown, you can define code cells with a directive like so:
 
 ```{code-cell}
 print(2 + 2)
+
+import jgtml
+jgtml.__init__()
+
 ```
 
 When your book is built, the contents of any `{code-cell}` blocks will be
