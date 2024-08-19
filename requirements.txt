@@ -5,3 +5,4 @@ matplotlib
 numpy
 jupytext
 katex
+ghp-import
